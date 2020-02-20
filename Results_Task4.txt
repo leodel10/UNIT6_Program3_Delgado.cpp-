@@ -1,0 +1,6 @@
+Built-in sort Ascending 
+
+time for run 1: 0.001259 seconds
+time for run 2: 0.001745 seconds
+time fro tun 3: 0.001115 seconds 
+Average time for built-in Ascending: 0.001373 seconds
